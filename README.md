@@ -1,2 +1,3 @@
-# infiniteCanvas
-Fable Fsharp Infinite Canvas
+# Infinite Canvas
+
+Infinite Canvas example in Fsharp/Fable
